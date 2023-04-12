@@ -39,15 +39,15 @@ Here are some ideas to get you started:
 </div>
 <hr>
 <div align="center">
-<p>👨‍💻 I am a brazillian engineer and Tech YouTuber, currently studying to become a Full Stack Developer</p>
+  <p>👨‍💻 I am a brazillian engineer and Tech YouTuber, currently studying to become a Full Stack Developer</p>
 
-<p>:telescope: I’m working as a Tech YouTuber and TI Consultant, currently studying frontend and backend languages to build web and mobile apps.</p>
+  <p>:telescope: I’m working as a Tech YouTuber and TI Consultant, currently studying frontend and backend languages to build web and mobile apps.</p>
 
-<p>:seedling: Graduating in Systems Analysis and Development at Unicesumar (Maringá, PR, Brazil).</p>
+  <p>:seedling: Graduating in Systems Analysis and Development at Unicesumar (Maringá, PR, Brazil).</p>
 
-<p>:zap: In my free time, I try to make some personal projects and read tech articles.</p>
+  <p>:zap: In my free time, I try to make some personal projects and read tech articles.</p>
 
-<p>
+  <p>
   
   :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/matheusalbuquerque)
   
