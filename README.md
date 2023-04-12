@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **albukerk1/albukerk1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -30,7 +28,7 @@ Here are some ideas to get you started:
   </a></br>
   <img src="https://komarev.com/ghpvc/?username=albukerk1&style=flat-square&color=blue" alt=""/>
   <h3>
-    hey there
+    hi there
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h3>
 </div>
