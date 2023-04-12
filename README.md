@@ -38,17 +38,26 @@ Here are some ideas to get you started:
   </a>
 </div>
 <hr>
-👨‍💻 I am a brazillian engineer and Tech YouTuber, currently studying to become a Full Stack Developer
-:telescope: I’m working as a Tech YouTuber and Ti Consultant, currently studying frontend and backend languages to build web and mobile applications.
+<div align="center">
+<p>👨‍💻 I am a brazillian engineer and Tech YouTuber, currently studying to become a Full Stack Developer</p>
 
-- :seedling: Graduating in Systems Analysis and Development at Unicesumar (Maringá, PR, Brazil).
+<p>:telescope: I’m working as a Tech YouTuber and TI Consultant, currently studying frontend and backend languages to build web and mobile apps.</p>
 
-- :zap: In my free time, I try to make some personal projects and read tech articles.
+<p>:seedling: Graduating in Systems Analysis and Development at Unicesumar (Maringá, PR, Brazil).</p>
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/matheusalbuquerque)
+<p>:zap: In my free time, I try to make some personal projects and read tech articles.</p>
+
+<p>
+  
+  :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/matheusalbuquerque)
+  
+  </p>
+</div>
 <hr>
+<div align="center">
 :hammer_and_wrench: Languages and Tools I'm currently working on:
-<div>
+</div>
+<div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
