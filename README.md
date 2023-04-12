@@ -38,9 +38,6 @@ Here are some ideas to get you started:
   </a>
 </div>
 <hr>
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
 👨‍💻 I am a brazillian engineer and Tech YouTuber, currently studying to become a Full Stack Developer
 :telescope: I’m working as a Tech YouTuber and Ti Consultant, currently studying frontend and backend languages to build web and mobile applications.
 
@@ -63,4 +60,5 @@ Here are some ideas to get you started:
 <hr>
 :fire: My Stats :</br>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=albukerk1&theme=dark&background=000000)](https://git.io/streak-stats) </br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=albukerk1&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
