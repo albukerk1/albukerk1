@@ -28,11 +28,14 @@ Here are some ideas to get you started:
   <a href="https://instagram.com/albukerk18">
     <img src="https://img.shields.io/badge/Instagram-orange?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a></br>
-  <img src="https://komarev.com/ghpvc/?username=albukerk1&style=flat-square&color=blue" alt=""/> <h3>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h3>
+  <img src="https://komarev.com/ghpvc/?username=albukerk1&style=flat-square&color=blue" alt=""/>
+  <h3>
+    hey there
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h3>
 </div>
 <div id="holopin" align="center">
-  <img src="https://holopin.me/albukerk1" width="500px"/>
+  <a href="https://www.holopin.io/@albukerk1">
+    <img src="https://holopin.me/albukerk1" width="500px"/>
+  </a>
 </div>
