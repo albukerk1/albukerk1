@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 </div>
 <hr>
 <div align="center">
-  <p>👨‍💻 I am a brazillian engineer and Tech YouTuber, currently studying to become a Full Stack Developer</p>
+  <p>👨‍💻 I am a brazilian engineer and Tech YouTuber, currently studying to become a Full Stack Developer</p>
 
   <p>:telescope: I’m working as a Tech YouTuber and TI Consultant, currently studying frontend and backend languages to build web and mobile apps.</p>
 
