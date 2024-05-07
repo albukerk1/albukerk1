@@ -39,11 +39,11 @@ Here are some ideas to get you started:
 </div>
 <hr>
 <div>
-  <p>👨‍💻 Hi! Nice to see you here. My name is Matheus. I'm a brazilian engineer, business analyst and Tech YouTuber, currently studying to become a UX/UI Designer.</p>
+  <p>👨‍💻 Hi! Nice to see you here. My name is Matheus. I'm a brazilian engineer, Tech YouTuber, Designer and UX/Business Analyst, currently an undergratuate in Systems Analysis and Development.</p>
 
-  <p>:telescope: In addition to my previously mentioned work, I also volunteer as an IT Consultant and Designer for my university.</p>
+  <p>:telescope: In addition to my previously mentioned work, I also volunteer as an IT Marketing Director and Designer for my university.</p>
 
-  <p>:seedling: Graduating in Systems Analysis and Development at Unicesumar (Maringá, Paraná, Brazil). I'm mostly studying UX/UI Design and Business Analysis.</p>
+  <p>:seedling: Undergratuate in Systems Analysis and Development at Unicesumar (Maringá, Paraná, Brazil). I'm mostly studying SEO, UX Design and Business Analysis.</p>
 
   <p>:zap: In my free time, I try to make some personal projects and read tech articles.</p>
 </div>
