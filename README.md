@@ -39,13 +39,13 @@ Here are some ideas to get you started:
 </div>
 <hr>
 <div>
-  <p>👨‍💻 Hi! Nice to see you here. My name is Matheus. I'm a brazilian engineer, Tech YouTuber, Designer and UX/Business Analyst, currently an undergratuate in Systems Analysis and Development.</p>
+  <p>👨‍💻 Hi! Nice to see you here. My name is Matheus. I'm an engineer specialized in developing AI-driven products for startups. Additionaly, I work as a Product Leader for other businesses, such as uSafe, an app that helps people prevent allergies by smart scanning products.</p>
 
-  <p>:telescope: In addition to my previously mentioned work, I also volunteer as an IT Marketing Director and Designer for my university.</p>
+  <p>:telescope:  I'm also a tech content creator on YouTube, with a channel called Versatilizando.</p>
 
-  <p>:seedling: Undergratuate in Systems Analysis and Development at Unicesumar (Maringá, Paraná, Brazil). I'm mostly studying SEO, UX Design and Business Analysis.</p>
+  <p>:seedling: Civil Engineer | Systems Developer and Analyst | Post-graduating in UX Design | I'm mostly studying AI, UX Design, GTM and Startuping.</p>
 
-  <p>:zap: In my free time, I try to make some personal projects and read tech articles.</p>
+  <p>:zap: In my free time, I work on personal projects and read books/articles about startups and technology.</p>
 </div>
 <hr>
 <div align="center">
