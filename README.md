@@ -39,7 +39,9 @@ Here are some ideas to get you started:
 </div>
 <hr>
 <div>
-  <p>👨‍💻 Hi! Nice to see you here. My name is Matheus. I'm an engineer specialized in developing AI-driven products for startups. Additionaly, I work as a Product Leader for other businesses, such as uSafe, an app that helps people prevent allergies by smart scanning products.</p>
+  <p>
+    👨‍💻 Hi! Nice to see you here. I'm Matheus, an engineer focused on building AI-driven products for startups. I work across product strategy, automation, and development, often bridging technical execution with product leadership. I'm the founder and Product Lead of <a href="https://usafe.app">uSafe</a>, and I independently built and run <a href="https://promolink.site">PromoLink</a>.
+  </p>
 
   <p>:telescope:  I'm also a tech content creator on YouTube, with a channel called Versatilizando.</p>
 
@@ -47,7 +49,7 @@ Here are some ideas to get you started:
 
   <p>:zap: In my free time, I work on personal projects and read books/articles about startups and technology.</p>
 </div>
-<hr>
+<!-- <hr>
 <div align="center">
 :hammer_and_wrench: Languages and Tools I've worked with:
 </div>
@@ -60,13 +62,13 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
 </div>
-<hr>
+<hr> -->
 <div align="center">
   
   [![GitHub Stats](https://helio-github-stats.vercel.app/api?username=albukerk1&custom_title=GitHub+Stats&theme=default&title_color=2f80ed&text_color=434d58&icon_color=4c71f2&ring_color=2f80ed&border_color=e4e2e2&hide_border=false&locale=en&border_radius=4.5&card_width=466&hide_title=false&hide_rank=false&rank_icon=default&show_icons=true&include_all_commits=false&line_height=25&text_bold=true&disable_animations=false&number_format=short)](https://nice-readme.vercel.app/github-stats)
   
 </br>
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=albukerk1&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top languages](https://helio-github-stats.vercel.app/api/top-langs?username=albukerk1&layout=compact&stats_format=percentages&theme=dark&hide_border=false&border_radius=5&card_width=466&locale=pt-br&custom_title=Top+languages)](https://usafe.app)
 
 </div>
