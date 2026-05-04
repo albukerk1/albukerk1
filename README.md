@@ -43,7 +43,7 @@ Here are some ideas to get you started:
     👨‍💻 Hi! Nice to see you here. I'm Matheus, an engineer focused on building AI-driven products for startups. I work across product strategy, automation, and development, often bridging technical execution with product leadership. I'm the founder and Product Lead of <a href="https://usafe.app">uSafe</a>, and I independently built and run <a href="https://promolink.site">PromoLink</a>.
   </p>
 
-  <p>🎥 I'm also a tech content creator on YouTube, with a channel called <a href="https://youtube.com/versatilizando">Versatilizando</a>.</p>
+  <p>🎥 I'm also a tech content creator on YouTube, where I run a channel called <a href="https://youtube.com/versatilizando">Versatilizando</a>, focused on honest, practical technology content.</p>
 
   <p>🧑‍🎓 Civil Engineer | Systems Analyst & Developer | UX Design Postgraduate | Focused on AI, Product Development, GTM, and Startup Building.</p>
 
