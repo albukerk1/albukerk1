@@ -49,26 +49,3 @@ Here are some ideas to get you started:
 
   <p>⚡ In my free time, I build personal products and explore books and articles on startups, technology, and product development.</p>
 </div>
-<!-- <hr>
-<div align="center">
-:hammer_and_wrench: Languages and Tools I've worked with:
-</div>
-<div align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="flutter" alt="flutter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg" title="firebase" alt="firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="google-cloud" alt="google-cloud" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
-</div>
-<hr> -->
-<div align="center">
-  
-  [![GitHub Stats](https://helio-github-stats.vercel.app/api?username=albukerk1&custom_title=GitHub+Stats&theme=dark&title_color=2f80ed&text_color=434d58&icon_color=4c71f2&ring_color=2f80ed&border_color=e4e2e2&hide_border=false&locale=en&border_radius=4.5&card_width=466&hide_title=false&hide_rank=false&rank_icon=github&show_icons=true&include_all_commits=true&line_height=25&text_bold=true&disable_animations=false&number_format=short)](https://linkedin.com/in/matheusalbuquerque)
-  
-</br>
-
-  [![Top languages](https://helio-github-stats.vercel.app/api/top-langs?username=albukerk1&layout=compact&stats_format=percentages&theme=dark&hide_border=false&border_radius=5&card_width=466&locale=pt-br&custom_title=Top+languages)](https://usafe.app)
-
-</div>
